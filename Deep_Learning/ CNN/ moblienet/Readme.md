@@ -27,7 +27,6 @@
 
 mobilenetV2基本结构：
 
-![](https://pic4.zhimg.com/80/v2-11719566eb9051abff065016cffdf27f_hd.jpg)
 
 ### 2  主要提出：Linear Bottlenecks + Inverted residual block
 
