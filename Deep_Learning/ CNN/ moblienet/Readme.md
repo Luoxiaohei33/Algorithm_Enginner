@@ -1,5 +1,4 @@
-////////////
-#  Mobilenet
+#                                 Mobilenet
 
 ## 一  mobilenetV1
 
@@ -13,7 +12,7 @@
 
 ​            mobilenetV1网络结构：
 
- 
+![img](https://chenrudan.github.io/blog/2018/04/05/mobilenetv1v2/mobilenet_4.png)
 
 ## 二  mobilenetV2
 
@@ -27,6 +26,7 @@
 
 mobilenetV2基本结构：
 
+![](https://pic4.zhimg.com/80/v2-11719566eb9051abff065016cffdf27f_hd.jpg)
 
 ### 2  主要提出：Linear Bottlenecks + Inverted residual block
 
@@ -42,7 +42,9 @@ mobilenetV2基本结构：
 
 ## 三  mobilenetV3
 
-放弃吧少年，有钱人的土豪玩的网络。
+不适合移动端部署，放弃吧少年，有钱人的土豪玩的网络。
+
+
 
 
 
