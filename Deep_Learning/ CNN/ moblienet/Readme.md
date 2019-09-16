@@ -2,6 +2,8 @@
 
 ## 一  mobilenetV1
 
+https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet
+
 ### 1  Depthwise separable convolution
 
 ​        mobilenetV1核心是将正常的卷积conv分解为可分离卷积depthwise conv和1x1的逐点卷积pointwise conv
